@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I am passionate about leveraging data to build imp
 
 ## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathakpooja14&show_icons=true&locale=en&layout=compact" alt="shivamshukla14" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathakpooja14&show_icons=true&locale=en&layout=compact" alt="pathakpooja14" /></p>
 
 
 ---
