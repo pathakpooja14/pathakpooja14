@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I am passionate about leveraging data to build imp
 - **Python**: Pandas, NumPy, TensorFlow, PyTorch, Scikit-learn
 
 ### Backend Development:
-- **Flask**
 - **Django**
 
 ### Data Visualization:
